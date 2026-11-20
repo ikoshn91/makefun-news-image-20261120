@@ -196,8 +196,8 @@ def main():
          "Rohingya — a first against a state."),
         ("SHENZHEN", TEAL, icon_summit,
          "Trump, Xi and Putin sign joint peace declaration",
-         "The first three-way summit of the US, Chinese and Russian "
-         "leaders ends with a four-point declaration."),
+         "First-ever US–China–Russia summit ends in a four-point "
+         "declaration — signed Thursday, before the Kyiv strikes."),
         ("MARKETS", AMBER, icon_chart,
          "Asian markets plunge on AI-bubble fears",
          "Taiwan’s index sheds 2,200+ points in a day; Japan’s Nikkei "
